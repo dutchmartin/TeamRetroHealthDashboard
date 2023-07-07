@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-color: black;
+  color: #f77803;
+}
+html {
+  background-color: black;
+}
+
+.health-week-view {
+  display: flex;
+  justify-content: center;
+  
+}
+.highcharts-background {
+  display: none;
+}
